@@ -2,13 +2,11 @@
 
 ### Purpose: 
 
-- Use HTML, CSS (maybe a bit of JavaScript) to create my portfolio landing page. (Unfinished)
-
-<img src="" width=400>
+- Use HTML, CSS to create my frontend journey landing page.
 
 ### Page link:
 
-https://szuyuchen.github.io/HTML-CSS-my-portfolio/
+https://szuyuchen.github.io/frontend_journey/
 
 ### Tools:
 
@@ -18,22 +16,8 @@ https://szuyuchen.github.io/HTML-CSS-my-portfolio/
 
 - fontawesome: https://fontawesome.com/
 
-- dummyimage: https://dummyimage.com/
-
 - circle crop: https://crop-circle.imageonline.co/
 
 - Google Fonts: https://fonts.google.com/
 
-### Memo: 
-
-- 10/28: header and nav area
-
-- 10/29: about area
-
-- 10/30: skills area
-
-- 10/31: works area
-
-- 11/01: contact and footer area
-
-- 11/02: RWD setting
+- Canva: https://www.canva.com/
