@@ -1,0 +1,98 @@
+@media screen and (max-width:780px) {
+  .container {
+    width: 100%;
+  }
+
+  .header-left h1 {
+    font-size: 24px;
+    padding-left: 30px;
+  }
+
+  header {
+    padding-top: 20px;
+  }
+
+  .header-right {
+    padding: 10px 10px 0 0;
+  }
+
+  .nav-list {
+    display: none;
+  }
+
+  .table {
+    padding-top: 30px;
+  }
+
+  .table td {
+    border: 1px solid #d9d9d9;
+    text-align: center;
+    padding: 20px 0;
+    width: 50%;
+  }
+
+  .table a {
+    font-size: 18px;
+    letter-spacing: 1px;
+    display: block;
+  }
+
+  .hero {
+    display: none;
+  }
+
+  .hero2 {
+    width: 90%;
+  }
+
+  .top-wrapper {
+    text-align: center;
+    padding-top: 40px;
+  }
+
+  .contents {
+    display: block;
+  }
+
+  .my-photo {
+    display: none;
+  }
+
+  .about-text {
+    padding-left: 0px;
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .skill-content {
+    width: 100%;
+    padding-top: 50px;
+  }
+
+  .skill-text {
+    text-align: center;
+  }
+
+  .project-contents img {
+    width: 85%;
+    object-fit: cover;
+  }
+
+  .project-wrapper p,
+  .contact-wrapper p {
+    font-size: 18px;
+    padding-left: 0px;
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width:780px) {
+  .table {
+    display: none;
+  }
+
+  .hero2 {
+    display: none;
+  }
+}
