@@ -1,8 +1,8 @@
-# HTML-CSS-my-portfolio
+# frontend_journey
 
 ### Purpose: 
 
-- Use HTML, CSS to create frontend journey landing page.
+- Use HTML and CSS to create a frontend journey landing page.
 
 ### Page link:
 
@@ -12,10 +12,10 @@ https://szuyuchen.github.io/frontend_journey/
 
 - ICOOON MONO: https://icooon-mono.com/about-icoon-mono/
 
-- iconmonstr: https://iconmonstr.com/
+- Iconmonstr: https://iconmonstr.com/
 
-- fontawesome: https://fontawesome.com/
-
-- circle crop: https://crop-circle.imageonline.co/
+- Fontawesome: https://fontawesome.com/
 
 - Google Fonts: https://fonts.google.com/
+
+- Canva: https://www.canva.com/
